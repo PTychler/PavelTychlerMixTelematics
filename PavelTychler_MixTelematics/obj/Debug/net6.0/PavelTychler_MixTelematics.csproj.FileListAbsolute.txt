@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\PavelTychler_MixTelematics\PavelTychler_MixTelematics\bin\Debug\net6.0\PavelTychler_MixTelematics.exe
+C:\Users\user\source\repos\PavelTychler_MixTelematics\PavelTychler_MixTelematics\bin\Debug\net6.0\PavelTychler_MixTelematics.deps.json
+C:\Users\user\source\repos\PavelTychler_MixTelematics\PavelTychler_MixTelematics\bin\Debug\net6.0\PavelTychler_MixTelematics.runtimeconfig.json
+C:\Users\user\source\repos\PavelTychler_MixTelematics\PavelTychler_MixTelematics\bin\Debug\net6.0\PavelTychler_MixTelematics.dll
+C:\Users\user\source\repos\PavelTychler_MixTelematics\PavelTychler_MixTelematics\bin\Debug\net6.0\PavelTychler_MixTelematics.pdb
+C:\Users\user\source\repos\PavelTychler_MixTelematics\PavelTychler_MixTelematics\obj\Debug\net6.0\PavelTychler_MixTelematics.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\PavelTychler_MixTelematics\PavelTychler_MixTelematics\obj\Debug\net6.0\PavelTychler_MixTelematics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\PavelTychler_MixTelematics\PavelTychler_MixTelematics\obj\Debug\net6.0\PavelTychler_MixTelematics.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\PavelTychler_MixTelematics\PavelTychler_MixTelematics\obj\Debug\net6.0\PavelTychler_MixTelematics.AssemblyInfo.cs
+C:\Users\user\source\repos\PavelTychler_MixTelematics\PavelTychler_MixTelematics\obj\Debug\net6.0\PavelTychler_MixTelematics.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PavelTychler_MixTelematics\PavelTychler_MixTelematics\obj\Debug\net6.0\PavelTychler_MixTelematics.dll
+C:\Users\user\source\repos\PavelTychler_MixTelematics\PavelTychler_MixTelematics\obj\Debug\net6.0\refint\PavelTychler_MixTelematics.dll
+C:\Users\user\source\repos\PavelTychler_MixTelematics\PavelTychler_MixTelematics\obj\Debug\net6.0\PavelTychler_MixTelematics.pdb
+C:\Users\user\source\repos\PavelTychler_MixTelematics\PavelTychler_MixTelematics\obj\Debug\net6.0\PavelTychler_MixTelematics.genruntimeconfig.cache
+C:\Users\user\source\repos\PavelTychler_MixTelematics\PavelTychler_MixTelematics\obj\Debug\net6.0\ref\PavelTychler_MixTelematics.dll

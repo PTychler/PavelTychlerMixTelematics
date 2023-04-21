@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PavelTychler_MixTelematics/1.0.0": {
+        "runtime": {
+          "PavelTychler_MixTelematics.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PavelTychler_MixTelematics/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
